@@ -56,7 +56,7 @@
 - `mv`: Move ou renomeia.
 - ![mv](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/77d09af3-5eb6-463b-b7b9-43b7e0784acb)
 - `cp`: Copia.
-- ![cp](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/3c7ff4fd-7617-4bc7-97c6-c8624ad41884)
+- ![cp](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/faea8f24-ba1f-4aea-98e9-30bc5c8ddc13)
 - `touch`: Cria arquivo de texto.
 - ![touch](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/8df7afc8-3dc2-4d4d-a0f2-5ad735d0899f)
 - `ln`: Cria Links simbólicos ou "rígidos".
