@@ -48,6 +48,7 @@
 #### Manipulação de Arquivos/Diretórios
 
 - `mkdir`: Cria diretório.
+- ![mkdir](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2d31f20a-c866-4174-b2a7-b40abfd33569)
 - `rmdir`: Apaga diretório vazio.
 - `rm`: Apaga arquivo/diretório.
 - `mv`: Move ou renomeia.
