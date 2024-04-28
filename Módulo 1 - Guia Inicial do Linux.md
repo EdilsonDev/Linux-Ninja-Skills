@@ -60,7 +60,7 @@
 - `touch`: Cria arquivo de texto.
 - ![touch](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/8df7afc8-3dc2-4d4d-a0f2-5ad735d0899f)
 - `ln`: Cria Links simbólicos ou "rígidos".
-- ![link](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/a8f98614-e7c1-451a-b759-68f458e36052)
+- ![link](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/58a18a64-4e00-4a7a-ac12-591ae090959d)
 - `find`: Procura arquivos.
 - ![find](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/3cab1f0c-34e9-4938-8eac-8dbf2c1c62de)
 - `du`: Mostra espaço em disco.
