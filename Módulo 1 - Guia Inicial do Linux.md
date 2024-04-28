@@ -82,3 +82,4 @@
 - **Quinta coluna**: Tamanho do arquivo.
 - **Sexta coluna**: Data de modificação.
 - **Sétima coluna**: Nome do arquivo ou diretório.
+![ls la](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/39739cb5-e94c-4d85-a8ba-3b6f1f9f8f8a)
