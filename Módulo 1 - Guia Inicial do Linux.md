@@ -50,7 +50,7 @@
 - `mkdir`: Cria diretório.
 - ![mkdir](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2d31f20a-c866-4174-b2a7-b40abfd33569)
 - `rmdir`: Apaga diretório vazio.
--![rmdir](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2810a5a8-2eb6-46a4-a9c2-b94621974827)
+- -![rmdir](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2810a5a8-2eb6-46a4-a9c2-b94621974827)
 - `rm`: Apaga arquivo/diretório.
 - ![rm](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/7a8525b7-907c-40b9-b495-90e9b072ba67)
 - `mv`: Move ou renomeia.
