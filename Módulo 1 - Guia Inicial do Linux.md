@@ -84,11 +84,13 @@
 - **Sétima coluna**: Nome do arquivo ou diretório. <br/>
 ![ls la](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/8a73f353-9002-4f49-83d2-6fea4167199e)
 
-#### Visualizadores de texto
+### Visualizadores de texto
 
 - `cat`: Concatena e exibe arquivos.
 - `more`: Exibe conteúdo com rolagem por página.
 - `less`: Exibe conteúdo com rolagem e busca.
 - `head`: Exibe as primeiras linhas de um arquivo.
 - `tail -f`: Exibe as últimas linhas de um arquivo em tempo real.
+- ![1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/4db72c8a-9fc4-4d42-8322-d087a5bdccd1)
+
 
