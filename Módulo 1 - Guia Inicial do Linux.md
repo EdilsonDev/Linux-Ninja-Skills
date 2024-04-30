@@ -107,7 +107,15 @@
 - ![1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/626d8d4f-0cca-4122-b45c-397caecbd8cf)
 - ![2](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/d185b7f9-e745-4a67-9ac9-80360fc2169b)
 
+### Conectores de comandos
 
-  
+- `clear ; ls -la`: Limpa a tela e lista todos os arquivos e diretórios no diretório atual, incluindo arquivos ocultos, com detalhes.
+- ![ls](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/5e809a01-2581-4f2e-ad34-83c31eacd547)
+- ![ls2](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/40f75163-6f52-48e7-95bf-4f6ec0fc5201)
+- `cd /home/edilson/pasta_x && rm -rf *`: Navega até o diretório "/home/edilson/pasta_x" e, se o diretório existir, remove de forma recursiva todos os arquivos e subdiretórios dentro dele.
+- ![rm rf](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/04388dc8-c0ad-4bd7-829e-96e0ef0fab64)
+- `cd /home/edilson/pasta_x/pasta_sem_nome || mkdir /home/edilson/pasta_x/nova_pasta`: Tenta navegar para "/home/edilson/pasta_x/pasta_sem_nome". Se o diretório existir ou não, cria um novo diretório chamado "nova_pasta" dentro de "/home/edilson/pasta_x".
+- ![ou](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/68980211-b2fd-4ff5-8842-e1a694cf8f21)
+
 
 
