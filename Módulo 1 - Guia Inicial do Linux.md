@@ -93,4 +93,15 @@
 - `tail -f`: Exibe as últimas linhas de um arquivo em tempo real. <br/>
 ![1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/4db72c8a-9fc4-4d42-8322-d087a5bdccd1)
 
+### Redirecionadores
+
+- `ls > /home/edilson/allow_file`: Substituição.
+- ![sub](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/3654e512-fcfe-4973-96ce-60262e8c54ec)
+- `ls -la >> /home/edilson/allow_file`: Adiciona ao final do texto.
+- ![add](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/91783743-838d-4363-92f9-1b2d9d6a40ec)
+- `< /home/edilson/allow_file less`: Exibe o conteúdo do arquivo.
+- ![es](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/bcd42c23-89a2-4f66-9c8d-8ce418120178)
+- `cat >> allow_file << EOF`: Adiciona texto ao arquivo até encontrar "EOF".
+- ![EOF](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/b8bb6a33-f96f-4cfa-b0d4-c425e5bcb3f7)
+
 
