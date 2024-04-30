@@ -103,10 +103,11 @@
 - ![es](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/bcd42c23-89a2-4f66-9c8d-8ce418120178)
 - `cat >> allow_file << EOF`: Adiciona texto ao arquivo até encontrar "EOF".
 - ![EOF](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/b8bb6a33-f96f-4cfa-b0d4-c425e5bcb3f7)
-- `find / -name group 2> /home/edilson/allow_file > /home/edilson/allow_file`: Procura por arquivos chamados "group" em todo o sistema e redireciona a saída de erro para /home/edilson/allow_file, resultando em um arquivo vazio ou truncado devido à ordem das redireções.
-- ![2](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/d2ecec2c-7e5b-4a27-b5d1-5cfeb02ae6ac)
-- ![3](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/c6a728a2-fa2c-49d7-b419-da78767d1cfe)
+- `find / -name group 2> /home/edilson/allow_file > /home/edilson/allow_file`: Busca por arquivos chamados "group" em todo o sistema de arquivos, com mensagens de erro redirecionadas para /home/edilson/allow_file.
+- ![1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/626d8d4f-0cca-4122-b45c-397caecbd8cf)
+- ![2](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/d185b7f9-e745-4a67-9ac9-80360fc2169b)
 
 
+  
 
 
