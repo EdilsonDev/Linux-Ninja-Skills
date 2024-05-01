@@ -1,6 +1,4 @@
-### Comandos Linux
-
-#### Filtros
+### Filtros de Conteúdo
 
 #### GREP:
 
