@@ -2,7 +2,7 @@
 
 #### Filtros
 
-### GREP:
+#### GREP:
 
 - `grep "laranja" /home/edilson/filtros_de_conteudo/arquivo1`: Procura por linhas que contenham a palavra "laranja" no arquivo1.
 - ![egrep1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2ab02265-9ac7-4be1-b906-1d64eaabe556)
@@ -13,7 +13,7 @@
 - ![egrep 3](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/4726f9df-e935-44d1-9747-d8a62061fd87)
 
 
-### WC : Conta o número de linhas, palavras e caracteres de entrada.
+#### WC : Conta o número de linhas, palavras e caracteres de entrada.
 
 - `ls -l | wc -l`: Conta o número de linhas resultantes do comando "ls -l", ou seja, o número total de arquivos e diretórios listados.
 - `ls -l /home/edilson | grep ^d | wc -l`: Conta o número de diretórios no diretório "/home/edilson". O `ls -l` lista os detalhes de todos os arquivos e diretórios, o `grep ^d` filtra apenas as linhas que começam com "d", indicando diretórios, e o `wc -l` conta o número de linhas resultantes.
