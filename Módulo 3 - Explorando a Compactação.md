@@ -12,3 +12,18 @@ Ao usar o comando "tar" para compactar/descompactar, temos a opção de escolher
 - "gzip" → extensão ".tar.gz" (amplamente utilizado e eficiente na compressão);
 - "bzip2" → extensão ".tar.bz2";
 - "compress" → extensão ".tar.Z".
+
+### Sintaxe:
+
+tar <opções> [arquivo] <opções || caminho_a_ser_compactado>
+
+- `c`: Compacta dados em um novo arquivo.
+- `x`: Extrai o conteúdo de um arquivo compactado.
+- `t`: Lista o conteúdo de um arquivo compactado.
+- `v`: Mostra na tela o que está sendo compactado ou descompactado.
+- `p`: Preserva as permissões do arquivo original.
+- `r`: Adiciona arquivos ao pacote "tar".
+- `z`: Usa o compressor "gzip".
+- `Z`: Usa o compressor "compress".
+- `j`: Usa o compressor "bzip2".
+- `f`: Especifica que o alvo é um arquivo (o padrão é dispositivo de fita).
