@@ -5,7 +5,7 @@
 ### GREP:
 
 - `grep "laranja" /home/edilson/filtros_de_conteudo/arquivo1`: Procura por linhas que contenham a palavra "laranja" no arquivo1.
-- ![egrep1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/74eae3e5-344d-4408-aa88-f4f22fdbe468)
+- ![egrep1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2ab02265-9ac7-4be1-b906-1d64eaabe556)
 - `grep -v "laranja" /home/edilson/filtros_de_conteudo/arquivo1`: Exclui linhas que contenham a palavra "laranja" no arquivo1, ou seja, retorna todas as linhas que não contêm "laranja".
 - ![egrep -v 1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/312d2b85-7cf2-4431-be39-92f07442472e)
 - ![egrep -v 2](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/1fe38fe5-b25a-4c67-b4bf-40f8000a40e3)
