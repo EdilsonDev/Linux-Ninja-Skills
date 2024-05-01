@@ -17,5 +17,6 @@
 - `ls -l /home/edilson | grep ^d | wc -l`: Conta o número de diretórios no diretório "/home/edilson". O `ls -l` lista os detalhes de todos os arquivos e diretórios, o `grep ^d` filtra apenas as linhas que começam com "d", indicando diretórios, e o `wc -l` conta o número de linhas resultantes.
 - `ls -l | wc -w`: Conta o número de palavras resultantes do comando "ls -l", ou seja, o número total de arquivos e diretórios listados.
 - `ls -l | wc -c`: Conta o número de caracteres resultantes do comando "ls -l", ou seja, o tamanho total da saída do comando "ls -l" em bytes.
-- ![egrep 3](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/fc838428-6f07-4c41-b911-a752424fb5b7)
+- ![wc](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/4ba67cb5-db73-4c1c-8615-1d64ec11e4eb)
+
 
