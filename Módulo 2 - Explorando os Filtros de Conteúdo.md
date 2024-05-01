@@ -36,7 +36,8 @@
 #### SORT: Ordena alfabeticamente um arquivo específico ou a entrada padrão.
 
 - `tree | sort`: Exibe a estrutura de diretórios e arquivos de forma hierárquica usando o comando "tree", e então ordena alfabeticamente as saídas usando o comando "sort".
-- ![sort](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/3d06c241-b078-477e-ac18-c69e8d52c383)
+- ![sort](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/e2159c50-4c95-447b-b729-1c32644ce6a2)
+
 
 #### AWK: Exibe partes ou seções de cada linha de um arquivo específico ou da entrada padrão.
 
