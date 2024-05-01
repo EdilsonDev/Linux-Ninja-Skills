@@ -1,6 +1,6 @@
 ### Filtros de Conteúdo
 
-#### GREP:
+#### GREP : O grep é uma ferramenta de busca por padrões em arquivos de texto.
 
 - `grep "laranja" /home/edilson/filtros_de_conteudo/arquivo1`: Procura por linhas que contenham a palavra "laranja" no arquivo1.
 - ![egrep1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2ab02265-9ac7-4be1-b906-1d64eaabe556)
