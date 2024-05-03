@@ -29,3 +29,8 @@ tar <opções> [arquivo] <opções || caminho_a_ser_compactado>
 - `Z`: Usa o compressor "compress".
 - `j`: Usa o compressor "bzip2".
 - `f`: Especifica que o alvo é um arquivo (o padrão é dispositivo de fita).
+
+- `tar czf backup.tar.gz safestorage`: Compacta o diretório safestorage em um arquivo backup.tar.gz.
+- `tar cf backup_empacotado.tar safestorage/`: Empacota o conteúdo do diretório safestorage em um arquivo backup_empacotado.tar.
+- `tar xzf backup.tar.gz`: Extrai os arquivos do arquivo backup.tar.gz no diretório atual.
+- `tar -xvf backup_empacotado.tar -C backup/`: Extrai os arquivos do arquivo backup_empacotado.tar no diretório backup/.
