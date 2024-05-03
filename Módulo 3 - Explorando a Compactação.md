@@ -2,7 +2,7 @@
 
 #### ZIP E UNZIP: O comando 'zip' comprime arquivos e diretórios em um arquivo compactado, ao passo que 'unzip' extrai arquivos desse arquivo compactado.
 
-##### Compactando
+##### Compactando 
 
 - `zip -r backup.zip /home/edilson`: Compacta o diretório /home/edilson e todos os seus conteúdos em um arquivo zip chamado backup.zip.
 - ![zip](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/10acb829-61d7-4923-8564-67ee1dbbbcbf)
