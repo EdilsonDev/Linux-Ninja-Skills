@@ -10,11 +10,14 @@
 
 #### TAR: O comando tar é utilizado para agrupar, compactar e extrair arquivos em formato tar.
 
+###### Compactando
 - `tar czf backup.tar.gz safestorage`: Compacta o diretório safestorage em um arquivo backup.tar.gz.
 - ![tar](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/27de6fe2-469c-4ebc-a106-5189335c1fbe)
 
 - `tar cf backup_empacotado.tar safestorage/`: Empacota o conteúdo do diretório safestorage em um arquivo backup_empacotado.tar.
 - ![tar2](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/e3de0572-0e62-4188-a006-61c2ad613648)
+
+###### Descompactando
 
 - `tar xzf backup.tar.gz`: Extrai os arquivos do arquivo backup.tar.gz no diretório atual.
 - ![untar](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/03dcd118-e834-44ba-b7a0-de9152384d6f)
