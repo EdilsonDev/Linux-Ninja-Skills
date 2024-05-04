@@ -14,3 +14,6 @@
 
 #### Informações de memória
 
+- `free -m`: Exibe informações sobre o uso da memória RAM do sistema em megabytes.
+- `free -s 20`: Exibe informações sobre o uso da memória RAM do sistema em intervalos de 20 segundos.
+- ![free](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/4ea5a78d-5127-47ec-b6a9-6fc7d5bd4e30)
