@@ -22,10 +22,20 @@
 
 - `sudo nmcli connection delete eth0`: Remove a conexão de rede Ethernet "eth0" usando o NetworkManager.
 - `sudo dhclient eth0`: Renova o endereço IP da interface de rede Ethernet "eth0" usando o cliente DHCP.
+- ![delete and dhclient](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/edf78a3a-7b9f-4129-a890-c41e1f9b1824)
+
 - `ip address`: Exibe todas as informações de endereço IP das interfaces de rede.
+- ![ipaddress](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/7269f226-7281-4c2b-8a7d-9cfe48c2aedc)
+
 - `ip address list eth0`: Exibe informações detalhadas sobre o endereço IP da interface de rede Ethernet "eth0".
 - `ip address flush dev eth0`: Remove todos os endereços IP da interface de rede Ethernet "eth0".
+- ![list and flush](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/2c2bb1bb-417f-4ee7-a4f7-6fd796ec225e)
+
 - `sudo route add default gw 10.1.1.1`: Adiciona uma rota padrão com um gateway de rede especificado (10.1.1.1) usando o comando "route".
 - `sudo route del default gw 10.1.1.1`: Remove a rota padrão com o gateway de rede especificado (10.1.1.1) usando o comando "route".
 - `route -n`: Exibe a tabela de roteamento do sistema.
+- ![default gw](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/6d810e0d-ff2b-4fa1-b32e-33351c34d9af)
+
 - `ip route`: Exibe informações detalhadas sobre a tabela de roteamento do sistema usando o utilitário "ip".
+- ![iproute](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/96ace1cd-a4c4-4afb-9925-4b0b5b2d1c0b)
+
