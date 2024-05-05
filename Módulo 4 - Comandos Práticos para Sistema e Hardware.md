@@ -21,6 +21,7 @@
 #### Informações de rede
 
 - `sudo nmcli connection delete eth0`: Remove a conexão de rede Ethernet "eth0" usando o NetworkManager.
+- ##### OBS. Antes de executar o comando, verifique se o `dhclient` está instalado. Se não estiver, você pode instalá-lo executando o seguinte comando em distribuições derivadas do Debian: `sudo apt update && sudo apt install isc-dhcp-client`, ou em distribuições derivadas do CentOS: `sudo yum install -y dhclient`.
 - `sudo dhclient eth0`: Renova o endereço IP da interface de rede Ethernet "eth0" usando o cliente DHCP.
 - ![delete and dhclient](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/edf78a3a-7b9f-4129-a890-c41e1f9b1824)
 
