@@ -41,3 +41,13 @@
 - ![iproute](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/96ace1cd-a4c4-4afb-9925-4b0b5b2d1c0b)
 
 ##### OBS. Configurações feitas com os comandos 'ifconfig', 'ip address' e 'route' são temporárias e serão perdidas após a reinicialização do computador
+
+#### Informações sobre Hardware
+
+- `dmesg`: Exibe mensagens do kernel, que podem incluir informações de inicialização do sistema e eventos relacionados ao hardware.
+- `lspci`: Lista todos os dispositivos PCI conectados ao sistema, fornecendo informações detalhadas sobre cada um deles.
+- `lsmod`: Lista todos os módulos do kernel carregados no sistema.
+##### OBS. 'insmod [arquivo] <opções>': Carrega um módulo do kernel especificado a partir de um arquivo, `rmmod <nome_do_modulo>': Remove um módulo do kernel carregado.
+- `cat /proc/cpuinfo`: Exibe informações sobre a CPU do sistema, como modelo, velocidade e recursos.
+- `cat /proc/scsi/scsi`: Fornece informações sobre dispositivos SCSI, SATA ou SAS conectados ao sistema.
+- `fdisk -l`: Lista todas as partições de disco no sistema, incluindo detalhes como tamanho, tipo de sistema de arquivos e rótulo.
