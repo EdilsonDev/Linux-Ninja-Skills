@@ -2,6 +2,7 @@
 
 
 #### Usuários
+
 - `useradd <opções> [nome_usuário]`: Adiciona um novo usuário ao sistema com as opções especificadas.
 - `passwd [nome_usuário]`: Define uma senha para o usuário especificado.
 - `sudo usermod -l [novo_nome_usuario nome_usuario_atual]`: Altera o nome de usuário de um usuário existente.
@@ -10,7 +11,7 @@
 - `usermod -g [nome_do_grupo] [usuário]`: Altera o grupo primário do usuário para o grupo especificado.
 - `usermod -G [nome_do_grupo] [usuário]`: Adiciona o usuário aos grupos secundários especificados.
   
-- #### Grupos
+#### Grupos
   
 - `groupdel [nome_do_grupo]`: Remove um grupo do sistema.
 - `groupadd <opções> [nome_grupo]`: Adiciona um novo grupo ao sistema com as opções especificadas.
