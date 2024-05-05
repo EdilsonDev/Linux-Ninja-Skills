@@ -53,5 +53,10 @@
 - ![lsmod](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/ed4ecce5-6fe1-42b2-b396-a93b033bb6d0)
 ##### OBS. 'insmod [arquivo] <opções>': Carrega um módulo do kernel especificado a partir de um arquivo, `rmmod <nome_do_modulo>': Remove um módulo do kernel carregado.
 - `cat /proc/cpuinfo`: Exibe informações sobre a CPU do sistema, como modelo, velocidade e recursos.
+- ![cpuinfo](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/c9204cdb-a662-4836-846e-b315b812e368)
 - `cat /proc/scsi/scsi`: Fornece informações sobre dispositivos SCSI, SATA ou SAS conectados ao sistema.
+- ![scsi](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/63c86999-585f-41be-8331-cc1875059b02)
 - `fdisk -l`: Lista todas as partições de disco no sistema, incluindo detalhes como tamanho, tipo de sistema de arquivos e rótulo.
+- ![fdisk -l](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/c9f017c3-7629-4c92-99c6-a72f4f7c4d88)
+- ![fdisk 3](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/69739e89-01ba-4607-9a62-bf75fb2e2ebf)
+
