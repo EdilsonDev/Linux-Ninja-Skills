@@ -17,3 +17,15 @@
 - `free -m`: Exibe informações sobre o uso da memória RAM do sistema em megabytes.
 - `free -s 20`: Exibe informações sobre o uso da memória RAM do sistema em intervalos de 20 segundos.
 - ![free](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/4ea5a78d-5127-47ec-b6a9-6fc7d5bd4e30)
+
+#### Informações de rede
+
+- `sudo nmcli connection delete eth0`: Remove a conexão de rede Ethernet "eth0" usando o NetworkManager.
+- `sudo dhclient eth0`: Renova o endereço IP da interface de rede Ethernet "eth0" usando o cliente DHCP.
+- `ip address`: Exibe todas as informações de endereço IP das interfaces de rede.
+- `ip address list eth0`: Exibe informações detalhadas sobre o endereço IP da interface de rede Ethernet "eth0".
+- `ip address flush dev eth0`: Remove todos os endereços IP da interface de rede Ethernet "eth0".
+- `sudo route add default gw 10.1.1.1`: Adiciona uma rota padrão com um gateway de rede especificado (10.1.1.1) usando o comando "route".
+- `sudo route del default gw 10.1.1.1`: Remove a rota padrão com o gateway de rede especificado (10.1.1.1) usando o comando "route".
+- `route -n`: Exibe a tabela de roteamento do sistema.
+- `ip route`: Exibe informações detalhadas sobre a tabela de roteamento do sistema usando o utilitário "ip".
