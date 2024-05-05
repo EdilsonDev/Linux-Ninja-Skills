@@ -48,7 +48,9 @@
 - ![dmesg1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/f7f45f09-22f6-415c-bf22-9d45688ea494)
 - ![dmesg2](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/66c5cc88-e159-438c-833b-0a9d702d5782)
 - `lspci`: Lista todos os dispositivos PCI conectados ao sistema, fornecendo informações detalhadas sobre cada um deles.
+- ![lspci](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/f30e1d8a-2280-48d8-bd79-b77e2b20ee50)
 - `lsmod`: Lista todos os módulos do kernel carregados no sistema.
+- ![lsmod](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/ed4ecce5-6fe1-42b2-b396-a93b033bb6d0)
 ##### OBS. 'insmod [arquivo] <opções>': Carrega um módulo do kernel especificado a partir de um arquivo, `rmmod <nome_do_modulo>': Remove um módulo do kernel carregado.
 - `cat /proc/cpuinfo`: Exibe informações sobre a CPU do sistema, como modelo, velocidade e recursos.
 - `cat /proc/scsi/scsi`: Fornece informações sobre dispositivos SCSI, SATA ou SAS conectados ao sistema.
