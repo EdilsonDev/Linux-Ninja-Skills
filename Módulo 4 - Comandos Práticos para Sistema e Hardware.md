@@ -58,5 +58,6 @@
 - ![scsi](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/63c86999-585f-41be-8331-cc1875059b02)
 - `fdisk -l`: Lista todas as partições de disco no sistema, incluindo detalhes como tamanho, tipo de sistema de arquivos e rótulo.
 - ![fdisk -l](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/c9f017c3-7629-4c92-99c6-a72f4f7c4d88)
+- `sudo fdisk -l | sed -e 's|,||g' -e 's|GiB|GB|g' | grep --color=always '^Disk' | awk '$2 ~ /^\// {print $1, $2, $3, $4}'`: Este comando executa o fdisk -l como superusuário para listar as partições do disco, em seguida, usa o sed para remover as vírgulas e substituir "GiB" por "GB", seguido por grep para destacar as linhas que começam com "Disk", e finalmente awk para imprimir as informações relevantes da partição.
 - ![fdisk 3](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/69739e89-01ba-4607-9a62-bf75fb2e2ebf)
 
