@@ -1,6 +1,6 @@
-### Gerenciando Sistema e Hardware
+## Gerenciando Sistema e Hardware
 
-#### Informações do sistema
+### Informações do sistema
 
 - `uname -a`: Exibe informações do sistema, incluindo o nome do kernel, nome do host, versão do kernel, data de compilação, arquitetura do sistema e informações do processador.
   (Para identificar a distribuição, normalmente há um arquivo importante localizado em "/etc".)
@@ -12,13 +12,13 @@
 - `whoami`: Retorna o nome do usuário atualmente logado.
 - ![logon](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/6e440687-ac12-4993-8fe0-981b820c08af)
 
-#### Informações de memória
+### Informações de memória
 
 - `free -m`: Exibe informações sobre o uso da memória RAM do sistema em megabytes.
 - `free -s 20`: Exibe informações sobre o uso da memória RAM do sistema em intervalos de 20 segundos.
 - ![free](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/4ea5a78d-5127-47ec-b6a9-6fc7d5bd4e30)
 
-#### Informações de rede
+### Informações de rede
 
 - `sudo nmcli connection delete eth0`: Remove a conexão de rede Ethernet "eth0" usando o NetworkManager.
 - ##### OBS. Antes de executar o comando, verifique se o `dhclient` está instalado. Se não estiver, você pode instalá-lo executando o seguinte comando em distribuições derivadas do Debian: `sudo apt update && sudo apt install isc-dhcp-client`, ou em distribuições derivadas do CentOS: `sudo yum install -y dhclient`.
@@ -42,7 +42,7 @@
 
 ##### OBS. Configurações feitas com os comandos 'ifconfig', 'ip address' e 'route' são temporárias e serão perdidas após a reinicialização do computador
 
-#### Informações sobre Hardware
+### Informações sobre Hardware
 
 - `dmesg`: Exibe mensagens do kernel, que podem incluir informações de inicialização do sistema e eventos relacionados ao hardware.
 - ![dmesg1](https://github.com/EdilsonDevops/Linux-Ninja-Skills/assets/96980587/f7f45f09-22f6-415c-bf22-9d45688ea494)
